@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Spati Dube
 </h1>
 
-# 👋 Hi, I'm Spati Dube
+
 
 🎯 Cloud Architect | Software Developer | AI Explorer  
 💡 Passionate about building scalable cloud solutions, backend systems, and creative tech experiences.
