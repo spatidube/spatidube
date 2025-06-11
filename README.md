@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Spati Dube
 
-<!--
-**spatidube/spatidube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cloud Architect | Software Developer | AI Explorer  
+💡 Passionate about building scalable cloud solutions, backend systems, and creative tech experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills
+- Languages: Java, Python, SQL
+- Cloud Platforms: AWS (Certified), OCI (Certified)
+- Tools: Git, IntelliJ, Maven, VS Code
+- Other: Scrum Master, Python Scripting, OOP, Generative AI
+
+---
+
+## 📚 Currently Learning
+- Infrastructure as Code (IaC)
+- Advanced Java Design Patterns
+- Real-world Generative AI applications
+
+---
+
+## ✨ Projects
+- **DELI-cious** – Java CLI deli order system (OOP)
+- [Portfolio Website](#) – Hosted on AWS EC2 and S3
+- [Capstone Projects](#) – Available soon!
+
+---
+
+## 🧠 Fun Fact
+Outside of tech, I create visual art and explore creative storytelling through design.
+
+---
+
+📫 Reach me at: 
+🔗 [LinkedIn](https://www.linkedin.com/in/siphathisile-dube/)
