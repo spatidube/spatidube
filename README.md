@@ -5,7 +5,7 @@
 
 
 🎯 Cloud Architect | Software Developer | AI Explorer  
-💡 Passionate about building scalable cloud solutions, backend systems, and creative tech experiences.
+💡 Passionate about building scalable cloud solutions, backend systems,data management and creative tech experiences.
 
 ---
 
