@@ -14,6 +14,7 @@
 - Cloud Platforms: AWS (Certified), OCI (Certified)
 - Tools: Git, IntelliJ, Maven, VS Code
 - Other: Scrum Master, Python Scripting, OOP, Generative AI
+- Generative AI Professional (Certified)
 
 ---
 
